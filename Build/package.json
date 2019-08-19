@@ -1,0 +1,22 @@
+{
+  "name": "ultimate-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Ultimate tic tac toe game written in c# for unity",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everythingguy/UltimateTicTacToe.git"
+  },
+  "author": "everythingguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everythingguy/UltimateTicTacToe/issues"
+  },
+  "homepage": "https://github.com/everythingguy/UltimateTicTacToe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
